@@ -37,7 +37,7 @@ DIRECTION = {
 
 ASSETS = {
   image: {
-    'player': '../images/player.png',
+    'player': '/mother/images/player.png',
   },
 };
 
