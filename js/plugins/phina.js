@@ -12798,6 +12798,8 @@ phina.namespace(function() {
       //   -this.width*this.origin.x, -this.height*this.origin.y, this.width, this.height
       //   );
 
+      canvas.imageSmoothingEnabled = false;
+
       var srcRect = this.srcRect;
       canvas.context.drawImage(image,
         srcRect.x, srcRect.y, srcRect.width, srcRect.height,
