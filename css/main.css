@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "DragonQuestFC";
+  src: local('font/DragonQuestFC.ttf');
+}
+
+@font-face {
+  font-family: "misaki_gothic";
+  src: local('font/misaki_gothic.ttf');
+}
+
+.f-dq {
+  font-family: "DragonQuestFC";
+  font-size: 200%;
+}
+
+.f-dot {
+  font-family: "misakigothic";
+}
